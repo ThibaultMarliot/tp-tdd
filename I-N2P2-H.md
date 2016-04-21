@@ -24,7 +24,7 @@
 * LECOMTE ADRIEN : 
 * LIEGE ARTHUR : 
 * MAERTEN MÉLISSA : 
-* MARLIOT THIBAULT : 
+* MARLIOT THIBAULT : https://github.com/ThibaultMarliot/TDD.git
 * MILLOT  THOMAS : 
 * MUDRY QUENTIN : 
 * OURIZAT MAXENCE : 
