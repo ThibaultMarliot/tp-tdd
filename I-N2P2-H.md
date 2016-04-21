@@ -24,7 +24,7 @@
 * LECOMTE ADRIEN : 
 * LIEGE ARTHUR : PAS LA MDR
 * MAERTEN MÉLISSA : 
-* MARLIOT THIBAULT : 
+* MARLIOT THIBAULT : https://github.com/ThibaultMarliot/TDD.git
 * MILLOT  THOMAS : 
 * MUDRY QUENTIN : https://github.com/Quentin-Mudry/Chiffreromains.git
 * OURIZAT MAXENCE : https://github.com/MaxenceOurizat/Tdd.git
